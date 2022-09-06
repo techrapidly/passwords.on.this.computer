@@ -1,6 +1,6 @@
 # passwords on this computer
 
-[![passwords on this computer](get-startted.png)](https://computersolve.com/passwords-on-this-computer/)
+[![passwords on this computer](get-startted.png)](https://icncomputer.com/passwords-on-this-computer/)
 
 There are a large number of websites and programs that prompt end users to save passwords on their personal computer(s). Popular web browsers such as Mozilla Firefox, Internet Explorer, Google Chrome, and instant messaging software like Windows Live Messenger are capable of saving user logins and passwords on the local computer. A common task that arises for the end-user is to find stored passwords on a computer in order to recover lost or forgotten access information. Depending on the application being used, operating system, and specific user permissions, the task can be as easy as choosing some options in the OS or having to download specific tools to crack the password file hash.
 
